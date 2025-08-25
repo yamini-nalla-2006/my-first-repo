@@ -1,0 +1,5 @@
+Yamini
+BCA
+Development +Operations =DevOps
+Developer- Who write the code
+operations- who deploy system
