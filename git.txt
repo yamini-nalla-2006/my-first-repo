@@ -1,9 +1,0 @@
-Development +Operations =DevOps
-Developer- Who write the code
-operations- who deploy system
-
-Without DevOps- Developer gives code to Ops team-they manually deploy -bugs happen-delays.
-With DevOps- code is automatically tested and deployed -customer get updates faster and safely.
-
-
-
